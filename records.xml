@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+    <record>
+        <id>2</id>
+        <name_clients>Семен Петрович</name_clients>
+        <address>Москва, Подсосенский пер. 28с1</address>
+        <phone>8(495)784-44-12</phone>
+        <id_apartment>2</id_apartment>
+        <id_client>1</id_client>
+        <add_date>2020-05-18 00:00:00</add_date>
+        <add_renewal>2020-06-22 00:00:00</add_renewal>
+        <add_delete>2020-07-20 00:00:00</add_delete>
+        <number_apartment>23</number_apartment>
+        <address_apartment>Москва, Звенигорское шоссе, 11</address_apartment>
+        <area>40</area>
+        <number_rooms>1</number_rooms>
+        <floor>12</floor>
+        <link>img/photoapartment/2.jpg</link>
+    </record>
+    <record>
+        <id>9</id>
+        <name_clients>Евгения Ивановна</name_clients>
+        <address>Москва, Малый Трехсвятительский пер. 2/1с1</address>
+        <phone>8(495)543-78-15</phone>
+        <id_apartment>9</id_apartment>
+        <id_client>2</id_client>
+        <add_date>2020-06-07 00:00:00</add_date>
+        <add_renewal>2020-07-05 00:00:00</add_renewal>
+        <add_delete>2020-07-20 00:00:00</add_delete>
+        <number_apartment>34</number_apartment>
+        <address_apartment>Москва, переулок Хилков, 1</address_apartment>
+        <area>103</area>
+        <number_rooms>3</number_rooms>
+        <floor>10</floor>
+        <link>img/photoapartment/9.jpg</link>
+    </record>
+    <record>
+        <id>5</id>
+        <name_clients>Василий Алибабаевич</name_clients>
+        <address>Москва, ул.Садовничества 19с1</address>
+        <phone>8(495)344-98-10</phone>
+        <id_apartment>5</id_apartment>
+        <id_client>3</id_client>
+        <add_date>2020-07-06 00:00:00</add_date>
+        <add_renewal>2020-07-14 00:00:00</add_renewal>
+        <add_delete>2020-08-02 00:00:00</add_delete>
+        <number_apartment>56</number_apartment>
+        <address_apartment>Москва, ул.Ходынская, 2</address_apartment>
+        <area>100</area>
+        <number_rooms>2</number_rooms>
+        <floor>3</floor>
+        <link>img/photoapartment/5.jpg</link>
+    </record>
+    <record>
+        <id>6</id>
+        <name_clients>Василий Алибабаевич</name_clients>
+        <address>Москва, ул.Садовничества 19с1</address>
+        <phone>8(495)344-98-10</phone>
+        <id_apartment>6</id_apartment>
+        <id_client>3</id_client>
+        <add_date>2020-08-16 00:00:00</add_date>
+        <add_renewal>2020-08-23 00:00:00</add_renewal>
+        <add_delete>2020-09-01 00:00:00</add_delete>
+        <number_apartment>40</number_apartment>
+        <address_apartment>Москва, переулок Красина, 16с1</address_apartment>
+        <area>130</area>
+        <number_rooms>4</number_rooms>
+        <floor>8</floor>
+        <link>img/photoapartment/6.jpg</link>
+    </record>
+    <record>
+        <id>10</id>
+        <name_clients>Василий Алибабаевич</name_clients>
+        <address>Москва, ул.Садовничества 19с1</address>
+        <phone>8(495)344-98-10</phone>
+        <id_apartment>10</id_apartment>
+        <id_client>3</id_client>
+        <add_date>2020-09-01 00:00:00</add_date>
+        <add_renewal>2020-09-07 00:00:00</add_renewal>
+        <add_delete>2020-09-09 00:00:00</add_delete>
+        <number_apartment>27</number_apartment>
+        <address_apartment>Москва, ул.2-я Брестская, 6</address_apartment>
+        <area>110</area>
+        <number_rooms>3</number_rooms>
+        <floor>19</floor>
+        <link>img/photoapartment/10.jpg</link>
+    </record>
+</records>
